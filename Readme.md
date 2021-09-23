@@ -1,0 +1,1 @@
+Este aplicativo é um leitor ePUB
